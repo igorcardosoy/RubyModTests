@@ -1,0 +1,9 @@
+{
+  "item.bicomodtest.ruby": "Ruby",
+  "item.bicomodtest.raw_ruby": "Raw Ruby",
+
+  "block.bicomodtest.ruby_block": "Block of Ruby",
+    "block.bicomodtest.raw_ruby_block": "Block of Raw Ruby",
+
+  "itemgroup.ruby": "Ruby Mod"
+}

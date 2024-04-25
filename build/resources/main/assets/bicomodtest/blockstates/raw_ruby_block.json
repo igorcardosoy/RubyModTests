@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bicomodtest:block/raw_ruby_block"
+    }
+  }
+}
